@@ -1,0 +1,17 @@
+/Users/loveall/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/APIsAndJSON.csproj.AssemblyReference.cache
+/Users/loveall/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/APIsAndJSON.GeneratedMSBuildEditorConfig.editorconfig
+/Users/loveall/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/APIsAndJSON.AssemblyInfoInputs.cache
+/Users/loveall/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/APIsAndJSON.AssemblyInfo.cs
+/Users/loveall/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/APIsAndJSON.csproj.CoreCompileInputs.cache
+/Users/loveall/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/APIsAndJSON
+/Users/loveall/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/APIsAndJSON.deps.json
+/Users/loveall/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/APIsAndJSON.runtimeconfig.json
+/Users/loveall/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/APIsAndJSON.dll
+/Users/loveall/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/APIsAndJSON.pdb
+/Users/loveall/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/loveall/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/APIsAndJSON.csproj.CopyComplete
+/Users/loveall/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/APIsAndJSON.dll
+/Users/loveall/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/refint/APIsAndJSON.dll
+/Users/loveall/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/APIsAndJSON.pdb
+/Users/loveall/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/APIsAndJSON.genruntimeconfig.cache
+/Users/loveall/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/ref/APIsAndJSON.dll
